@@ -1,0 +1,6 @@
+DoctorID,Date,City,Type,The doctor takes from,The doctor admits to
+1,2020-03-16,Warsaw,GP,12:00:00,14:01:00
+1,2020-03-29,Warsaw,GP,14:00:00,14:37:00
+2,2020-03-16,Krakow,GP,12:00:00,12:49:00
+3,2020-03-22,Warsaw,Sugreon,08:01:00,09:06:00
+4,2020-10-04,Krakow,Opthomologist,13:20:00,13:34:00
